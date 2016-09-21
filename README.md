@@ -1,3 +1,3 @@
 # distributed-system
-this is the first project for the course distributed system(15640).
-I have implemented RPC using C.
+In this project, I have implemented RPC using C.
+Basically, the user could do any file operations locally, while all the updates will be updated into server side.
